@@ -19,9 +19,9 @@ var rabbit;
 
 function preload()
 {
-  bg_img = loadImage('assets/background.png');
-  food = loadImage('assets/melon.png');
-  rabbit = loadImage('assets/Rabbit-01.png');
+  bg_img = loadImage('background.png');
+  food = loadImage('melon.png');
+  rabbit = loadImage('Rabbit-01.png');
 }
 
 function setup() 
